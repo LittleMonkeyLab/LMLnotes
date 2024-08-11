@@ -1,0 +1,9 @@
+---
+title: LML Sample Notes
+format:
+  LMLnotes-html: default
+include-file-after: "additional-doc.qmd"
+---
+
+Example Notes content. This should read like a scholarly but accessible magazine article?
+
